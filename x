@@ -45,7 +45,6 @@ Accident (Post Tax)             17.54       192.94
 Critical Illness (Post Tax)     15.45       169.95
 Voluntary Life (Child)          1.00        11.00
 Voluntary Life (Employee)       11.50       126.50
-Spouse Life                     1.31        14.41
 Support (888303055)             1,058.50    10,585.00
 Post-Tax Deductions Total       1,105.30    10,538.20
 
